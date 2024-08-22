@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-""" 0-minoperations"""
+""" 0-minoperations """
 
 
 def minOperations(n):
-    """ minOperations """
     # all outputs should be at least 2 char: (min, Copy All => Paste)
     if (n < 2):
         return 0
