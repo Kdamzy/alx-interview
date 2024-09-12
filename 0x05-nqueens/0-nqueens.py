@@ -41,7 +41,6 @@ def init():
         sys.exit(1)
     return(the_queen)
 
-
 def n_queens():
 
     the_queen = init()
